@@ -1,0 +1,6 @@
+name: ${artifactId}
+main: ${groupId}.${artifactId}
+version: ${version}
+description: MongoAuth player disconnect from proxy plugin informer
+author: Maxim Varentsov <admin@gtncraft.ru>
+
